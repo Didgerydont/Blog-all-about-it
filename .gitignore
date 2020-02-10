@@ -1,1 +1,4 @@
-.failure.txt
+*.sqlite3
+*.pyc
+__pychache__
+env.py
